@@ -1,6 +1,3 @@
-# fitpeo-Assignment
-Automation for patient payment calculations
-
 
 ### Scope:
 Automate the process of calculating the reimbursement amount on the FitPeo website based on multiple CPT codes.
